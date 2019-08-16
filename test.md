@@ -2,8 +2,7 @@ https://blog.csdn.net/Coy993055697/article/details/77145584
 https://blog.csdn.net/zhaoweixs/article/details/8693076
 https://www.csdn.net/gather_20/MtTaMg3sMTE2Mi1ibG9n.html
 https://www.cnblogs.com/agileai/p/7000064.html
-               
-               
+               https://github.com/JetBrains/intellij-community/blob/5463f1bfdf4d9cbeb930baf47217d416838ab06e/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/evaluate/XDebuggerEvaluationDialog.java     
                数据库优化总结
 1优化全表扫描
 	以下方式会触发全表扫描
